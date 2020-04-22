@@ -1,0 +1,84 @@
+body {
+  background-image: url("https://ow2.res.office365.com/owalanding/2019.8.21.02/images/masthead-alt-06-wide-large.jpg");
+  background-size: cover;
+  font-family: segoe, "Segoe UI", Arial, sans-serif;
+  color: white;
+}
+.our-content {
+  margin-left: 150px;
+  margin-right: 150px;
+  max-width: 1700px;
+}
+h2 {
+  font-size: 34px;
+}
+h1 {
+  font-size: 70px;
+  margin-top: 150px;
+}
+h3 {
+  margin-top: 35px;
+}
+.navigation-bar {
+  box-align: center;
+  margin-top: 0px;
+}
+ul {
+  list-style-type: none;
+}
+ul li {
+  display: inline-block;
+  margin: auto;
+  margin-right: 10px;
+  margin-top: 10px;
+  border: 1px solid;
+}
+.li1 {
+  padding: 10px;
+  border: none;
+}
+.li2 {
+  padding: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  float: right;
+  border-radius: 3px;
+  background-color: white;
+  margin-right: 200px;
+}
+.li2:hover {
+  background-color: rgb(224, 221, 221);
+}
+.li2 a {
+  color: blue;
+}
+.li3 {
+  padding: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  float: right;
+  border-radius: 3px;
+}
+.li3:hover {
+  background-color: rgb(170, 170, 170);
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 17px;
+}
+.our-content h3 form {
+  display: inline-block;
+}
+.button {
+  position: absolute;
+  bottom: 25px;
+  right: 200px;
+  border: 2px solid rgb(35, 147, 240);
+  color: white;
+  background-color: rgb(35, 147, 240);
+  padding: 14px 80px;
+  font-size: 16px;
+  border-radius: 5px;
+}
